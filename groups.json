@@ -225,7 +225,7 @@
   },
   {
     "id": 18,
-    "avatar_color": "без друзей пуст. спис",
+    "avatar_color": "red",
     "closed": true,
     "friends": [
     ]
